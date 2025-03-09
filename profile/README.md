@@ -1,4 +1,4 @@
-# 📜 README - La Défense des Tours
+# 📜 La Défense des Tours
 
 ## 🏰 La Défense des Tours
 
