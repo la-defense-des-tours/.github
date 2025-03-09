@@ -18,3 +18,6 @@ La Défense des Tours est un jeu de stratégie de type Tower Defense développé
     Langage principal : C#
     Système de gestion de version : ex: Git / GitHub
 
+## 🎥 Presentation du jeu 
+
+![Démonstration du jeu](./tower1.gif)
